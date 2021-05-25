@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a Computer Science student at UFCA (Universidade Federal do Cariri). I'm interested in many subjects from CS, with a particular inclination towards **Artificial Inteligence**, **Network Science** and **Scientific Computing**.
+
+🔭 I’m currently working on a research project in Natural Language Processing applied to detection of stress. 
+
+🌱 Meanwhile I'm studying Network and Complexity Science and interested in alternatives to Gradient Descent on Artificial Intelligence models.
+
+😄 Pronouns: He/Him
+
 <!--
 **csamuelsm/csamuelsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
