@@ -6,7 +6,13 @@ I'm a Computer Science student at UFCA (Universidade Federal do Cariri). I'm int
 
 🌱 Meanwhile I'm studying about **Deep Learning** and **Network Science**, and I also like to read and know more about *game making*, *design*, *science and maths*.
 
+✍️ I like to *make videos*, *write*, and engage in some *creative activities*.
+
 😄 Pronouns: He/Him
+
+![image](https://github-readme-stats.vercel.app/api?username=csamuelsm)
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=csamuelsm)
 
 <!--
 **csamuelsm/csamuelsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
