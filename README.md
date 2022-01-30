@@ -4,15 +4,11 @@ I'm a Computer Science student at UFCA (Universidade Federal do Cariri). I'm int
 
 🔭 I’m currently working on a research project in **Graph Theory**.
 
-🌱 Meanwhile I'm studying about **Deep Learning** and **Network Science**, and I also like to read and know more about *game making*, *design*, *science and maths*.
+🌱 I like to read and know more about *game making*, *design*, *art*, *science and maths*.
 
-✍️ I like to *make videos*, *write*, and engage in some *creative activities*.
+✍️ I like to *make videos*, *write*, *play games* and make *digital art*.
 
 😄 Pronouns: He/Him
-
-![image](https://github-readme-stats.vercel.app/api?username=csamuelsm)
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=csamuelsm)
 
 ![](https://komarev.com/ghpvc/?username=csamuelsm)
 
