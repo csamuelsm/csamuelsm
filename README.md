@@ -10,6 +10,8 @@ I'm a Computer Science student at UFCA (Universidade Federal do Cariri). I'm int
 
 😄 Pronouns: He/Him
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csamuelsm&hide=javascript,css,scss,html&theme=tokyonight)
+
 ![](https://komarev.com/ghpvc/?username=csamuelsm)
 
 <!--
