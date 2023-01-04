@@ -10,7 +10,9 @@ I'm a Computer Science student at UFCA (Universidade Federal do Cariri). I'm int
 
 😄 Pronouns: He/Him
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csamuelsm)](https://github.com/anuraghazra/github-readme-stats)
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=csamuelsm)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csamuelsm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=csamuelsm)
 
