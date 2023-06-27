@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Computer Science student at UFCA (Universidade Federal do Cariri). I'm interested in many subjects from CS, with a particular inclination towards **Artificial Inteligence**, **Network Science** and **Scientific Computing**.
+I'm a Computer Science student at UFCA (Universidade Federal do Cariri). I'm interested in many subjects from CS, with a particular inclination towards **Graph Theory**, **Algorithms and Computational Complexity**, **Artificial Inteligence**, **Network Science** and **Scientific Computing**.
 
 🔭 I’m currently working on a research project in **Graph Theory**.
 
