@@ -1,5 +1,7 @@
 ### Hey, I'm Samuel! 👋
 
+![](https://komarev.com/ghpvc/?username=csamuelsm)
+
 I'm a Computer Scientist graduated by UFCA. I'm also a Full-Stack Developer and Graph Theory/Algorithms researcher.
 
 I'm the creator of the game [**Guess the Movie**](https://guess-the-movie-one.vercel.app/) and [**Filme Secreto** (Portuguese version)](https://filme-secreto.vercel.app/).
@@ -13,8 +15,6 @@ I also like to read and know more about *game making*, *design*, *art*, *science
 😄 Pronouns: He/Him
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csamuelsm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=csamuelsm)
 
 If you like my works, please consider sponsoring me:
 
