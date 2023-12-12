@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=csamuelsm)
 
-I'm a Computer Scientist graduated by UFCA. I'm also a Full-Stack Developer and Graph Theory/Algorithms researcher.
+I'm a Computer Scientist graduated by UFCA. I'm also a Full-Stack Developer and Graph Theory/Algorithms researcher. I won the Best Scientific Initiation Award at the LV Brazilian Operational Research Symposium (SBPO 2023) in the Graph Theory and Algorithms area.
 
 I'm the creator of the game [**Guess the Movie**](https://guess-the-movie-one.vercel.app/) and [**Filme Secreto** (Portuguese version)](https://filme-secreto.vercel.app/).
 
