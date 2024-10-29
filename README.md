@@ -2,15 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=csamuelsm)
 
-I'm a Computer Scientist graduated by UFCA. I'm also a Full-Stack Developer and Graph Theory/Algorithms researcher. I won the Best Scientific Initiation Award at the LV Brazilian Operational Research Symposium (SBPO 2023) in the Graph Theory and Algorithms area.
+Possuo graduação em Ciência da Computação pela UFCA. Atualmente, sou membro dos grupos de pesquisa Calango (Complexidade e Algoritmos em Grafos) da UFCA e Pargo (Paralelismo, Grafos e Otimização) da UFC, onde desenvolvo pesquisa na área de Algoritmos e Teoria dos Grafos. Estou cursando o mestrado em Ciência da Computação pelo MDCC-UFC, na linha de Algoritmos e Otimização. Fui premiado no Simpósio Brasileiro de Pesquisa Operacional (SBPO) em 2023, onde recebi o prêmio de melhor iniciação científica.
 
-I'm the creator of the game [**Guess the Movie**](https://guess-the-movie-one.vercel.app/) and [**Filme Secreto** (Portuguese version)](https://filme-secreto.vercel.app/).
-
-You can check other projects of mine below and you can know more about me and my works in my [website](https://meu-blog-csamuelsm.vercel.app/).
-
-My interests are: **Graph Theory**, **Algorithms**, **Computational Complexity**, **Parameterized Complexity**, **Artificial Inteligence**, **Network Science** and **Scientific Computing**.
-
-I also like to read and know more about *game making*, *design*, *art*, *science and maths*.
+Também sou desenvolvedor fullstack e o criador do jogo Filme Secreto. Tenho interesse em: Teoria dos Grafos, Teoria dos Jogos, Algoritmos, Complexidade Computacional, Otimização Combinatória, Ciência de Redes, Ciência dos Dados, Inteligência Artificial, Desenvolvimento Web, Desenvolvimento de Jogos e Design.
 
 😄 Pronouns: He/Him
 
