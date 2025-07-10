@@ -6,7 +6,7 @@
 
 - 📖 The main themes I'm interested in are: Graph Theory, Algorithms, Combinatorics, Complexity Theory, and Combinatorial Game Theory. I'm currently studying Probabilistic Combinatorics and Models of Infections in Graphs.
 
-- 👨‍💻 Sometimes I also work on some side projects for fun! My most recent project is [**Filme Secreto**](https://www.filme-secreto.com.br/), a game where the goal is to guess a new movie every day based on its similarity to other movies. Give it a try!
+- 👨‍💻 Sometimes I also work on some side projects for fun! My most recent project is [**Filme Secreto**](https://www.filme-secreto.com.br/), a game where the goal is to guess a new movie every day based on its similarity to other movies. Give it a try! Please also take a look at [**Cobras do Cariri**](https://www.cobrasdocariri.com.br/), a project I worked with my friends from UFCA and that @c1c3ro brought back to life and that I'm so proud of.
 
 - 🤓 I am also interested in: Mangas, Music, Cinema, TV, Trading Card Games, Chess, Graphic Design, and lots of other things.
 
